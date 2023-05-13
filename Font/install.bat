@@ -1,0 +1,1 @@
+copy "IDAutomationHC39M Code 39 Barcode.ttf" "C:\Windows\Fonts\"
